@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/SRV-Luismi.iml" filepath="$PROJECT_DIR$/SRV-Luismi.iml" />
     </modules>
   </component>
