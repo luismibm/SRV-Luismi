@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex1LamdaExpressions/Ex1LamdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex1LamdaExpressions/Ex1LamdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex2LambdaExpressions/Ex2LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex2LambdaExpressions/Ex2LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex3AnonymousClasses/Ex3AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex3AnonymousClasses/Ex3AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex4AnonymousClasses/Ex4AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex4AnonymousClasses/Ex4AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex5AnonymousClasses/Ex5AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex5AnonymousClasses/Ex5AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SRV-Luismi.iml" filepath="$PROJECT_DIR$/SRV-Luismi.iml" />
     </modules>
   </component>
