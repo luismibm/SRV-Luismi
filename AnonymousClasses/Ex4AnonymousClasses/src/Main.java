@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 
 interface Alerta {
@@ -34,31 +35,32 @@ class Temporitzador {
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+        Scanner sc = new Scanner(System.in);
+        Temporitzador temporitzador = new Temporitzador();
 
-        new Temporitzador()
-                .programar(new Alerta() {
-                    @Override
-                    public String getMissatge() {
-                        return "Hora d'anar al cole";
-                    }
+        while (true) {
+            System.out.print("Mensaje: ");
+            String missatge = sc.nextLine();
+            if (missatge.isBlank()) {
+                break;
+            }
 
-                    @Override
-                    public int getSegons() {
-                        return 5;
-                    }
-                })
-                .programar(new Alerta() {
-                    @Override
-                    public String getMissatge() {
-                        return "Hora de desdejunar";
-                    }
+            System.out.print("Segundos: ");
+            int segons = Integer.parseInt(sc.nextLine());
 
-                    @Override
-                    public int getSegons() {
-                        return 1;
-                    }
-                })
-                .esperarQueAcabenLesAlertes();
+            temporitzador.programar(new Alerta() {
+                @Override
+                public String getMissatge() {
+                    return missatge;
+                }
 
+                @Override
+                public int getSegons() {
+                    return segons;
+                }
+            });
+        }
+
+        temporitzador.esperarQueAcabenLesAlertes();
     }
 }
