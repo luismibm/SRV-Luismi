@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex1AnonymousClasses/Ex1AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex1LamdaExpressions/Ex1LamdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex1LamdaExpressions/Ex1LamdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/Ex1MethodReferences/Ex1MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/Ex1MethodReferences/Ex1MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex2AnonymousClasses/Ex2AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex2LambdaExpressions/Ex2LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex2LambdaExpressions/Ex2LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex3AnonymousClasses/Ex3AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex3AnonymousClasses/Ex3AnonymousClasses.iml" />
@@ -14,7 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex5AnonymousClasses/Ex5AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex5AnonymousClasses/Ex5AnonymousClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex5LambdaExpressions/Ex5LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex5LambdaExpressions/Ex5LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnonymousClasses/Ex6AnonymousClasses/Ex6AnonymousClasses.iml" filepath="$PROJECT_DIR$/AnonymousClasses/Ex6AnonymousClasses/Ex6AnonymousClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/Ex6LambdaExpressiosn/Ex6LambdaExpressiosn.iml" filepath="$PROJECT_DIR$/LambdaExpressions/Ex6LambdaExpressiosn/Ex6LambdaExpressiosn.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/SRV-Luismi.iml" filepath="$PROJECT_DIR$/SRV-Luismi.iml" />
     </modules>
   </component>
